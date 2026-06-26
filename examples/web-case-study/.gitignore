@@ -1,0 +1,6 @@
+node_modules/
+*.webm
+before.png
+after.png
+package-lock.json
+case-study.mp4
