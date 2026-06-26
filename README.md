@@ -60,6 +60,14 @@ frontfrisk — 4 issues in the UI you couldn't see
 
 Not a mockup. Actual frontfrisk runs in Claude Code — see **[CASES.md](CASES.md)**.
 
+**Web case study** — a real rendered page, audited with **axe-core** in a real
+browser, **6 violations → 0** after frontfrisk's fixes (same design). Before/after
+video + the e2e test in **[examples/web-case-study](examples/web-case-study)**.
+
+<p align="center">
+  <img src="assets/case-study-compare.png" alt="Before frontfrisk: 6 accessibility violations; after: 0" width="820" />
+</p>
+
 ## Install
 
 ```bash
