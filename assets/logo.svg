@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="frontfrisk">
+  <rect width="128" height="128" rx="28" fill="#0D0F12"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="#34D399" stroke-opacity="0.18"/>
+  <!-- browser viewport -->
+  <rect x="30" y="32" width="68" height="52" rx="7" fill="none" stroke="#3A4048" stroke-width="5"/>
+  <circle cx="40" cy="42" r="2.6" fill="#3A4048"/>
+  <circle cx="49" cy="42" r="2.6" fill="#3A4048"/>
+  <line x1="30" y1="50" x2="98" y2="50" stroke="#3A4048" stroke-width="3"/>
+  <!-- low-contrast text line being flagged (red) -->
+  <line x1="40" y1="64" x2="74" y2="64" stroke="#F87171" stroke-width="5" stroke-linecap="round"/>
+  <!-- magnifier frisking it -->
+  <circle cx="76" cy="72" r="20" fill="none" stroke="#34D399" stroke-width="6"/>
+  <line x1="91" y1="87" x2="104" y2="100" stroke="#34D399" stroke-width="8" stroke-linecap="round"/>
+</svg>
